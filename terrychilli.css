@@ -297,7 +297,7 @@ img {
 }
 .img-responsive {
     display: block;
-    max-width: 100%;
+    max-width: 60%;
     height: auto;
 }
 .img-rounded {
@@ -4703,6 +4703,12 @@ button.close {
     width: 100%;
     margin-top: -11px;
 }
+
+.ghost {
+    align-self: start
+}
+
+
 .grid-overlay {
     position: absolute;
     top: 0;
