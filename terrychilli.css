@@ -84,8 +84,15 @@ sup {
 sub {
     bottom: -0.25em;
 }
+
+img[src*="fatalii pepper"] {
+    width: 75%;
+    margin: auto;
+}
+
 img {
     border: 0;
+    
 }
 svg:not(:root) {
     overflow: hidden;
